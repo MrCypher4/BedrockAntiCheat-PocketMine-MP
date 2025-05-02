@@ -48,12 +48,6 @@ UltraAntiCheat is built with modular architecture:
 
 ---
 
-## File Structure
-
-UltraAntiCheat/ ├── plugin.yml ├── src/ │   └── UltraAntiCheat/ │       ├── Main.php │       ├── checks/ │       │   ├── MovementCheck.php │       │   ├── CombatCheck.php │       │   ├── BlockCheck.php │       │   ├── SystemCheck.php │       │   └── ChatCheck.php │       └── utils/ │           └── ViolationHandler.php
-
----
-
 ## Logging
 
 - `violations.json`: Tracks all players' violation scores persistently.
