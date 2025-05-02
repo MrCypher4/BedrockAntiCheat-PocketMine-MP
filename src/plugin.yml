@@ -1,0 +1,13 @@
+name: UltraAntiCheat
+main: UltraAntiCheat\Main
+version: 1.0.0
+api: 5.0.0
+author: VatieraSynth
+description: UltraAntiCheat untuk Minecraft Bedrock (PocketMine-MP)
+permissions:
+  ultraanticheat.notify:
+    description: notifikasi on
+    default: op
+  ultraanticheat.bypass:
+    description: Melewati detection anticheat
+    default: op
