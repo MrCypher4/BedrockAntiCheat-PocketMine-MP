@@ -78,8 +78,8 @@ UltraAntiCheat is open-source under the **MIT License**. You are free to use, mo
 
 ## Contact & Support
 
-- Discord: `yourdiscord#1234`
-- Telegram: `@yourtelegram`
-- Email: `you@example.com`
+- Discord: `No discord`
+- Telegram: `t.me/tianmmetal`
+- Email: `vatierasynth@gmail.com`
 
 Feel free to report issues, request features, or contribute via pull requests.
